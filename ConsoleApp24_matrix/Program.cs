@@ -13,7 +13,7 @@ namespace ConsoleApp24_matrix
             //1. feladat
             int n;
             int m;
-
+            // el kell kezdeni
 
 
 
